@@ -6,5 +6,5 @@ def Dog
   lassie = Dog.new
 end
 
-puts fido 
+puts fido
 end
